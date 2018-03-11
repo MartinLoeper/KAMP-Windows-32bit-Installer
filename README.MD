@@ -8,3 +8,4 @@ This is the installer for the KAMP Windows Eclipse Product.
 - Windows 64-bit: https://github.com/MartinLoeper/KAMP-Windows-Installer
 - OSX 64-bit: https://github.com/MartinLoeper/KAMP-OSX-Installer
 - Linux 64-bit: https://github.com/MartinLoeper/KAMP-Linux-Installer
+- Linux 32-bit: https://github.com/MartinLoeper/KAMP-Linux-32bit-Installer
